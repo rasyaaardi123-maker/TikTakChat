@@ -22,4 +22,5 @@ ANDROID_HOME="$HOME/Android/sdk" ANDROID_SDK_ROOT="$HOME/Android/sdk" ./gradlew 
 
 The debug APK is written to `app/build/outputs/apk/debug/app-debug.apk`.
 
-Liquid Glass components are adapted from [Kyant0/AndroidLiquidGlass](https://github.com/Kyant0/AndroidLiquidGlass) under Apache License 2.0. The license is included in `licenses/AndroidLiquidGlass-LICENSE`.
+
+
