@@ -1,6 +1,6 @@
 # TikTakChat
 
-Android chat app prototype built with Jetpack Compose and the Backdrop Liquid Glass library.
+Android chat app prototype built with Jetpack Compose 
 
 ## Current prototype
 
